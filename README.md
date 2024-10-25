@@ -25,7 +25,7 @@ The purpose of this report is to provide a detailed analysis of pizza sales data
 - What are the best and worst selling pizzas?
 - What's the average order value?
 
-**Objectives**
+## Objectives
 
 - **Calculate Key Performance Indicators (KPIs):**
     - **Total Revenue**: Sum of the total price of all pizza orders.
@@ -53,3 +53,7 @@ The purpose of this report is to provide a detailed analysis of pizza sales data
 - **Bottom 5 Worst Sellers by Total Pizzas Sold**: Bar chart showcasing the bottom 5 worst-selling pizzas.
 - Percentage Revenue by Pizza Category.
 - Percentage Sales By Pizza Category.
+
+
+
+
